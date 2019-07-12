@@ -8,5 +8,5 @@ management:
       exposure:
         include: '*'      
 hello:
-  there: have time to show this demo Updated
+  there: have time to show this demo reset
   
